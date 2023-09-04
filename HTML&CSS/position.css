@@ -1,6 +1,20 @@
 #fixHead{
-    position: sticky;
+    position: fixed;
     top: 0;
     margin: 20px;
     background-color: aquamarine;
+}
+#stkHead{
+    position: sticky;
+    top: 0;
+    margin: 20px;
+    background-color: rgb(60, 163, 195);
+}
+#relHead{
+    background-color: bisque;
+    position: relative;
+}
+#absHead{
+    background-color: blueviolet;
+    position: absolute;
 }
