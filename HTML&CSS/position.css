@@ -1,5 +1,6 @@
 #fixHead{
-    position: fixed;
+    position: sticky;
+    top: 0;
     margin: 20px;
     background-color: aquamarine;
 }
