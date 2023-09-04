@@ -5,7 +5,7 @@
     font-size: 50px;
     }
 
-    #heading2 {
+#heading2 {
         color: blue;
         margin-left: 10px;
         padding-left: 10px;
@@ -16,14 +16,14 @@
 
     }
 
-    img {
+#img1 {
         height : 300px; 
         margin-left: auto; 
         margin-right: auto; 
         display: block;
     }
 
-    p {
+p {
         text-align: justify;
         font-size: 20px;
         line-height: 30px;
@@ -31,9 +31,28 @@
         border: 5px solid rebeccapurple;
     }
 
-    .container{
+.container{
         padding: 20px;
-        background-color: aqua;
+        background-color: rgb(188, 255, 255);
     }
 
-    
+.budy{
+    background-color: black;
+}    
+
+#listOfAI{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.container2{
+    padding: 20px;
+    background-color: rgb(253, 225, 143);
+    display: flex;
+}
+
+#img2{
+    padding: 20px;
+    height: 300px;
+}
